@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: MPGraph
+Version: 0.0.0
+Summary: A graph definition library for integrating MediaPipe with Graph Convolutional Networks.
+Author-email: "plumiume.com" <plumiiume@gmail.com>
+Project-URL: homepage, https://github.com/plumiume/MPGraph.git
+Requires-Python: >=3.10
+License-File: LICENCE.txt
+Requires-Dist: mediapipe

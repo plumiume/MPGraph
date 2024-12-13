@@ -1,0 +1,7 @@
+LICENCE.txt
+pyproject.toml
+mpgraph/MPGraph.egg-info/PKG-INFO
+mpgraph/MPGraph.egg-info/SOURCES.txt
+mpgraph/MPGraph.egg-info/dependency_links.txt
+mpgraph/MPGraph.egg-info/requires.txt
+mpgraph/MPGraph.egg-info/top_level.txt

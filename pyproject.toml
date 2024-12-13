@@ -1,0 +1,23 @@
+[project]
+name = "MPGraph"
+version = "0.0.0"
+description = "A graph definition library for integrating MediaPipe with Graph Convolutional Networks."
+authors = [
+    {name = "plumiume.com", email = "plumiiume@gmail.com"}
+]
+license = {file = "LICENSE.txt"}
+
+requires-python = ">=3.10"
+dependencies = [
+    "mediapipe",
+]
+
+[project.urls]
+homepage = "https://github.com/plumiume/MPGraph.git"
+
+[build-system]
+requires = ["setuptools >= 69"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["mpgraph"]
